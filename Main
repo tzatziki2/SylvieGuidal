@@ -1,0 +1,9 @@
+import numpy as np
+import random as rd
+class Rocher:
+    
+
+
+
+
+if __name__ == '__main__':
